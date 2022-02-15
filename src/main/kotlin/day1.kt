@@ -9,7 +9,10 @@ fun main(){
 
     var year : Int = 15
     val weight :Double=52.1
+    var list1="apple,banana,tree,aaa,ccc
+            //也可以不要定義型態
     println(name+year+"歲 "+weight+" 公斤")
+    println(list1)
 
 }
 

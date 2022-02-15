@@ -1,7 +1,7 @@
 
 之後更動
 git add .
-git commit -m "備註"
+git commit -m "增加不定義型態"
 git push -u
 
 git reset --hard HEAD 回復到最新提交版本
@@ -11,6 +11,3 @@ git reset --hard HEAD~n // n 等於往上第幾個提交版本 回復之前指�
 
 git push -f  都聽我的
 
-git add .
-git commit -m "新增手冊"
-git push -u
