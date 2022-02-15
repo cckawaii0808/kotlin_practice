@@ -1,7 +1,7 @@
 
 之後更動
 git add .
-git commit -m "增加不定義型態"
+git commit -m "增加const"
 git push -u
 
 git reset --hard HEAD 回復到最新提交版本
